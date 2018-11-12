@@ -1,4 +1,4 @@
 # pyweb-first
 
-Alap struktúra Flask projecthez, konfigurációs lehetőségekkel.
+Alap struktúra Flask projekthez, konfigurációs lehetőségekkel.
 
