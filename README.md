@@ -1,4 +1,4 @@
 # pyweb-first
 
-Alap struktúra Flask projekthez, konfigurációs lehetőségekkel.
-
+Alap struktúra Flask _app factory_ projekthez.
+Nagyobb projekthez ajánlott.
